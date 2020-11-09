@@ -1,2 +1,2 @@
-Аавав
-![alt tag](https://sun9-42.userapi.com/ZFPoFjZOMmOe9wNTw-XN8EyHLg9eQ-zOdXImOA/ni3W7T_3WEI.jpg)
+Вёрстка CV. Стек технологий - Bootstrap 4, таск - менеджер - Gulp
+![alt tag](https://sun9-34.userapi.com/FHOkeg_fdMrMnirXmyzrGjWjsg2jVTGb9EOBgQ/PexM4muJpRI.jpg)
